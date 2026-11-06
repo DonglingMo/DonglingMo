@@ -4,6 +4,8 @@ Java backend developer focused on building reliable enterprise applications, mic
 
 我主要关注 Java 后端、微服务、企业应用与微信生态，也会持续探索 AI 辅助开发与工程效率提升。
 
+I also explore Go and Python for tooling, and Solidity for Web3 experiments.
+
 ## What I work on
 
 - Backend services and enterprise applications with Java and Spring
@@ -14,6 +16,9 @@ Java backend developer focused on building reliable enterprise applications, mic
 ## Tech stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -30,12 +35,14 @@ Java backend developer focused on building reliable enterprise applications, mic
 - [spring-cloud-alibaba](https://github.com/DonglingMo/spring-cloud-alibaba) — Spring Cloud Alibaba ecosystem exploration.
 - [mybatis-flex](https://github.com/DonglingMo/mybatis-flex) — MyBatis enhancement framework exploration.
 
-## GitHub stats
+## Activity & projects
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DonglingMo&show_icons=true&hide_border=true&rank_icon=github" alt="DonglingMo's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DonglingMo&layout=compact&hide_border=true" alt="Top languages" />
-</p>
+GitHub's native contribution graph on this profile shows current activity without requiring external statistics services.
+
+- [coding-sprint-lab](https://github.com/DonglingMo/coding-sprint-lab) — coding experiments and engineering practice
+- [Finch-Site](https://github.com/FinchipAI/Finch-Site) — contributions to product engineering and localization
+- [All repositories](https://github.com/DonglingMo?tab=repositories)
+- [Contribution activity](https://github.com/DonglingMo?tab=overview)
 
 ## Connect
 
